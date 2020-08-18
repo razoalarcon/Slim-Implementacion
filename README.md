@@ -15,7 +15,7 @@ Composer
 # Estructura del proyecto 📁
 
 ```bash
-Farmacia *//Carpeta principal del proyecto*
+Farmacia //Carpeta principal del proyecto
 |----public
 |----|--assets
 |    |  |--js
@@ -48,7 +48,7 @@ C:\xampp\apache\conf\httpd                         //Ruta
 ## 2.- Agregamos el Virtual Host
 
 ```bash
-*C:\XAMPP\apache\conf\extra\httpd-vhosts.conf        //Ruta*        
+C:\XAMPP\apache\conf\extra\httpd-vhosts.conf        //Ruta       
 
 <VirtualHost *:80>
     ServerAdmin webmaster@myfarm.com                //Asigamos nombre al dominio
@@ -62,7 +62,7 @@ C:\xampp\apache\conf\httpd                         //Ruta
 ## 3.- Apuntamos el dominio a la IP
 
 ```bash
-*C:\Windows\System32\drivers\etc\hosts*
+C:\Windows\System32\drivers\etc\hosts
 
 127.0.0.1      myfarm.com
 ```
