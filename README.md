@@ -69,7 +69,13 @@ C:\Windows\System32\drivers\etc\hosts
 
 # Endpoints ✏️
 
-[Nota: En los detalles el {id} va dentro del Query](https://www.notion.so/c7466b783724455b94533d6423b197f7)
+[Nota: En los detalles el {id} va dentro del Query]
+| Ruta          | Metodo        | Tipo          | Ruta completa | Descripccion  | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| /               | GET  | VIEW | http://myfarm.com/ | Home |
+| /farmacias/tipo/farmatodo  | GET  | VIEW | http://myfarm.com/farmacias/tipo/farmatodo | Todas las farmacias con Vista Css|
+| /api/farmacias  | GET  | JSON | http://myfarm.com/api/farmacias | Todas las farmacias |
+| /api/detalle    | GET  | JSON | http://myfarm.com/api/detalle | Detalle farmacia |
 
 # Despliegue 📦
 
