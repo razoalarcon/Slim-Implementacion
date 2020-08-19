@@ -95,12 +95,11 @@ Cliente Http para JS
 
 # Wiki 📖
 
-Puedes encontrar como configurar un Virtual Host de manera detallada en nuestro video
+<strong>Puedes encontrar como configurar un Virtual Host de manera detallada en mi video </strong>
 
 [https://www.youtube.com/watch?v=7YeY9EUtz0E](https://www.youtube.com/watch?v=7YeY9EUtz0E)
 
-# Autores ✒️
+# Autor ✒️
 
 - Miguel Alarcon
-- Simon Mireles
-- Cesar Escobar
+
